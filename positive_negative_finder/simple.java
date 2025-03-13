@@ -7,8 +7,11 @@ public class simple {
             System.out.println("positive");
 
         }
-        else{
+        
+        else if(a<0){
             System.out.println("negative");
         }
-    }
+        else{
+            System.out.println("the no. is zero");
+        }
 }
