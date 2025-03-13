@@ -14,5 +14,6 @@ public class simple {
         System.out.println(d);
         System.out.println(e);
         System.out.println(f);
+         System.out.println(a);
     }
 }
