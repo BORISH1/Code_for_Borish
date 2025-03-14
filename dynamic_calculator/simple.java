@@ -1,4 +1,4 @@
-package dynamic_calculation;
+package dynamic_calculator;
 
 import java.util.Scanner;
 
